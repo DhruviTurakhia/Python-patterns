@@ -14,3 +14,5 @@ The combined project now includes:
 [browse the combined source code](https://github.com/DhruviTurakhia/Pattern-World/tree/master/patterns).
 
 This repository remains available to preserve the history of the original 2021 curriculum work.
+It is an archive rather than a separate active project; recruiters should use Pattern World as the
+canonical implementation.
